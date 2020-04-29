@@ -1,0 +1,26 @@
+{
+  "name": "webhook-observer",
+  "version": "1.0.0",
+  "description": "webhook-observer for server code update",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --watch",
+    "stop": "pm2 stop index.js",
+    "restart": "pm2 restart index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanKnightly/webhook-observer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanKnightly/webhook-observer/issues"
+  },
+  "homepage": "https://github.com/AlanKnightly/webhook-observer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^4.4.0"
+  }
+}
