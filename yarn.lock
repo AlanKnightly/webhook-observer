@@ -1833,9 +1833,9 @@ supports-color@^7.1.0:
     has-flag "^4.0.0"
 
 systeminformation@^4.23.3:
-  version "4.23.8"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.23.8.tgz#1d0afd5a13fccfe04eba03cba0a2df2dc821568f"
-  integrity sha512-PA8i1KCJ42LQ6Om0NLRyoShnD7Rj837mEck8WaQKnPUtwc0YurwlgX5/YTxYepL9DCXUYEw1tVployj2VUXGYQ==
+  version "4.30.6"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.30.6.tgz#b56074968f2ea28ac118f23221c449b0f763db22"
+  integrity sha512-NV7zo9NU7fWSuiCORZmMLe90cFrrTS6jfalrQ0/5B7JGQ2ei15c2gmfICBwWdmviyv/FXAFVReySxOtDDkppqw==
 
 thunkify@^2.1.2:
   version "2.1.2"
